@@ -79,7 +79,7 @@ ${CSS}
       {/*RESULT */}
         
       <div style={{width:"100%", height:"66vh"}}>
-      <iframe height={"100%"} width={"100%"} srcDoc={IFRAMECODE} />
+      <iframe title="myFrame" height={"100%"} width={"100%"} srcDoc={IFRAMECODE} />
     </div>
     </div>
     </div>
